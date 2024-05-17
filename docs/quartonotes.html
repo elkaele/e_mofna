@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>LANDFIRE-Powered Landscape Assessment - Home</title>
+<title>LANDFIRE-Powered Landscape Assessment - Quarto notes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -83,12 +117,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./past.html" rel="" target="">
- <span class="menu-text">Cultural Burning in Missouri</span></a>
+ <span class="menu-text">Past</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html" rel="" target="">
@@ -111,8 +145,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview-of-project" id="toc-overview-of-project" class="nav-link active" data-scroll-target="#overview-of-project">Overview of Project</a></li>
-  <li><a href="#ecological-map" id="toc-ecological-map" class="nav-link" data-scroll-target="#ecological-map">Ecological Map</a></li>
+  <li><a href="#insert-image" id="toc-insert-image" class="nav-link active" data-scroll-target="#insert-image">insert image</a></li>
+  <li><a href="#big-header" id="toc-big-header" class="nav-link" data-scroll-target="#big-header">Big Header</a></li>
   </ul>
 </nav>
     </div>
@@ -121,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Home</h1>
+<h1 class="title">Quarto notes</h1>
 </div>
 
 
@@ -136,14 +170,44 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="overview-of-project" class="level2">
-<h2 class="anchored" data-anchor-id="overview-of-project">Overview of Project</h2>
-<p>brief paragraph text</p>
+<section id="insert-image" class="level2">
+<h2 class="anchored" data-anchor-id="insert-image">insert image</h2>
+<ul>
+<li>there are multiple ways to insert an image
+<ul>
+<li><p>one is inline code</p></li>
+<li><p>in between {} is for paramenters (very picky about syntax/order)</p></li>
+<li><p>use tab to see available images <img src="images/206489fe-646c-446d-8518-a6e94affe09f.jpg" class="img-fluid" style="width:100.0%"></p></li>
+<li><p>more detailed example: <img src="images/206489fe-646c-446d-8518-a6e94affe09f.jpg" class="img-fluid" style="float:right; margin-left: 25px;" data-fig-align="right" alt="&quot;Historical ecosystems map of a large region in the western United States." width="250"></p></li>
+<li><p>another is with the knittr package</p></li>
+<li><p>This creates a hyperlink: <a href="https://www.nature.org/en-us/about-us/where-we-work/united-states/missouri/">missouri</a></p></li>
+</ul></li>
+</ul>
 </section>
-<section id="ecological-map" class="level2">
-<h2 class="anchored" data-anchor-id="ecological-map">Ecological Map</h2>
+<section id="big-header" class="level1">
+<h1>Big Header</h1>
+<section id="wee-header" class="level4">
+<h4 class="anchored" data-anchor-id="wee-header">Wee header</h4>
+<ul>
+<li>chart building:
+<ul>
+<li>we want the code to be hidden</li>
+<li>for more information google “quarto code chunk options”</li>
+</ul></li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(cars)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="quartonotes_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="672"></p>
+</div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">#spatial data</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="do">## lines, points, polygons, vector data (shape file -- 5-8 files)</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co">#raster data</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="do">## grids or pixels e.g. pictures</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

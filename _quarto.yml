@@ -13,7 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - href: past.qmd
-        text: Past
+        text: Cultural Burning in Missouri
       - href: about.qmd
         text: About
         

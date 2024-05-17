@@ -1,0 +1,36 @@
+---
+title: "Quarto notes"
+---
+
+## insert image
+
+* there are multiple ways to insert an image
+    * one is inline code 
+    * in between {} is for paramenters (very picky about syntax/order)
+    * use tab to see available images
+![](images/206489fe-646c-446d-8518-a6e94affe09f.jpg){width=100%} 
+    * more detailed example:
+![Eleanor climbs dome.](images/206489fe-646c-446d-8518-a6e94affe09f.jpg){style="float:right; margin-left: 25px;" fig-alt="\"Historical ecosystems map of a large region in the western United States." fig-align="right" width="250" }
+
+    * another is with the knittr package
+    
+  * This creates a hyperlink:
+[missouri](https://www.nature.org/en-us/about-us/where-we-work/united-states/missouri/)
+
+# Big Header
+
+#### Wee header
+
+
+* chart building:
+  * we want the code to be hidden
+  * for more information google "quarto code chunk options"
+```{r}
+plot(cars)
+#spatial data
+## lines, points, polygons, vector data (shape file -- 5-8 files)
+#raster data
+## grids or pixels e.g. pictures
+
+```
+

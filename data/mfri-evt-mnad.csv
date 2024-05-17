@@ -1,0 +1,52 @@
+evts,acres,mnad,mnad_clean,min MFRI,max MFRI,annual min prob,annual max prob,min annual acres,max annual acres
+Ozark-Ouachita Dry-Mesic Oak Forest,7515361,Forest,Forest,5,10,0.2,0.1,751536.1,1503072.2
+Northern & Central Ruderal Meadow,1354483,Prairie,Prairie,1,3,1,0.333333333,451494.3333,1354483
+Ozark-Ouachita Dry Oak Woodland,3850304,Woodland ,Woodland ,3,7,0.333333333,0.142857143,550043.4286,1283434.667
+North-Central Interior Dry-Mesic Oak Forest and Woodland,2556607,Woodland ,Woodland ,3,7,0.333333333,0.142857143,365229.5714,852202.3333
+Eastern Cool Temperate Developed Ruderal Grassland,285477,Prairie,Prairie,1,3,1,0.333333333,95159,285477
+Northern & Central Native Ruderal Forest,1259232,Forest,Forest,5,10,0.2,0.1,125923.2,251846.4
+Ozark-Ouachita Shortleaf Pine Forest and Woodland,348980,Woodland ,Woodland ,3,7,0.333333333,0.142857143,49854.28571,116326.6667
+Ozark-Ouachita Oak Forest and Woodland,411727,Forest,Forest,5,10,0.2,0.1,41172.7,82345.4
+Eastern Cool Temperate Developed Ruderal Mixed Forest,327061,Forest,Forest,5,10,0.2,0.1,32706.1,65412.2
+Eastern Cool Temperate Developed Ruderal Deciduous Forest,233295,Forest,Forest,5,10,0.2,0.1,23329.5,46659
+Eastern Great Plains Wet Meadow-Prairie-Marsh,36166,Prairie,Prairie,1,3,1,0.333333333,12055.33333,36166
+Central Tallgrass Prairie,31727,Prairie,Prairie,1,3,1,0.333333333,10575.66667,31727
+Southeastern Ruderal Grassland,26327,Prairie,Prairie,1,3,1,0.333333333,8775.666667,26327
+Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,118316,Forest,Forest,5,10,0.2,0.1,11831.6,23663.2
+North-Central Interior Maple-Basswood Forest,109263,Forest,Forest,5,10,0.2,0.1,10926.3,21852.6
+North-Central Interior Floodplain Forest,433358,Wetland,Wetland,20,50,0.05,0.02,8667.16,21667.9
+Central Interior Highlands Calcareous Glade and Barrens Woodland,43005,Glade,Glade,2,5,0.5,0.2,8601,21502.5
+Northern & Central Ruderal Shrubland,19978,Prairie? (Swaty used prairie numbers),Prairie? (Swaty used prairie numbers),1,3,1,0.333333333,6659.333333,19978
+North-Central Interior Dry Oak Forest and Woodland,47813,Woodland ,Woodland ,3,7,0.333333333,0.142857143,6830.428571,15937.66667
+South-Central Interior Large Floodplain Herbaceous,41116,Wetland (Swaty used prairie numbers),Wetland (Swaty used prairie numbers),3,5,0.333333333,0.2,8223.2,13705.33333
+Northern & Central Ruderal Wet Meadow & Marsh,34678,Wetland (Swaty used prairie numbers),Wetland (Swaty used prairie numbers),3,5,0.333333333,0.2,6935.6,11559.33333
+North-Central Interior Wet Meadow,29448,Wetland (Swaty used prairie numbers),Wetland (Swaty used prairie numbers),3,5,0.333333333,0.2,5889.6,9816
+South-Central Interior Large Floodplain Forest,173470,Wetland,Wetland,20,50,0.05,0.02,3469.4,8673.5
+Ozark-Ouachita Riparian Forest,167077,Wetland,Wetland,20,50,0.05,0.02,3341.54,8353.85
+Crowley's Ridge Mesic Loess Slope Forest,41438,Forest,Forest,5,10,0.2,0.1,4143.8,8287.6
+North-Central Interior Freshwater Marsh,22796,Wetland (Swaty used prairie numbers),Wetland (Swaty used prairie numbers),3,5,0.333333333,0.2,4559.2,7598.666667
+Ozark-Ouachita Mesic Hardwood Forest,36086,Forest,Forest,5,10,0.2,0.1,3608.6,7217.2
+Ozark-Ouachita Riparian Herbaceous,19984,Wetland (Swaty used prairie numbers),Wetland (Swaty used prairie numbers),3,5,0.333333333,0.2,3996.8,6661.333333
+Central Interior Highlands Dry Acidic Glade and Barrens,12810,Glade,Glade,2,5,0.5,0.2,2562,6405
+Eastern Cool Temperate Developed Ruderal Shrubland,5610,Prairie,Prairie,1,3,1,0.333333333,1870,5610
+Eastern Warm Temperate Developed Ruderal Grassland,5571,Prairie,Prairie,1,3,1,0.333333333,1857,5571
+Lower Mississippi River Dune Woodland and Forest,13216,Woodland ,Woodland ,3,7,0.333333333,0.142857143,1888,4405.333333
+Southeastern Native Ruderal Forest,17410,Forest,Forest,5,10,0.2,0.1,1741,3482
+Mississippi River High Floodplain (Bottomland) Herbaceous,9230,Wetland (Swaty used prairie numbers),Wetland (Swaty used prairie numbers),3,5,0.333333333,0.2,1846,3076.666667
+Central Interior Highlands Calcareous Glade and Barrens Herbaceous,5138,Glade,Glade,2,5,0.5,0.2,1027.6,2569
+Crowley's Ridge Sand Forest,12545,Forest,Forest,5,10,0.2,0.1,1254.5,2509
+Mississippi River Bottomland Depression,47300,Wetland,Wetland,20,50,0.05,0.02,946,2365
+Northern & Central Native Ruderal Flooded & Swamp Forest,43039,Wetland,Wetland,20,50,0.05,0.02,860.78,2151.95
+Southeastern Great Plains Tallgrass Prairie,1495,Prairie,Prairie,1,3,1,0.333333333,498.3333333,1495
+Lower Mississippi River Flatwoods,28412,Wetland,Wetland,20,50,0.05,0.02,568.24,1420.6
+Mississippi River Low Floodplain (Bottomland) Herbaceous,3061,Wetland (Swaty used prairie numbers),Wetland (Swaty used prairie numbers),3,5,0.333333333,0.2,612.2,1020.333333
+Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,4270,Forest,Forest,5,10,0.2,0.1,427,854
+Mississippi River Low Floodplain (Bottomland) Forest,12940,Wetland,Wetland,20,50,0.05,0.02,258.8,647
+Mississippi River Riparian Forest,12251,Wetland,Wetland,20,50,0.05,0.02,245.02,612.55
+Eastern Warm Temperate Developed Ruderal Mixed Forest,3048,Forest,Forest,5,10,0.2,0.1,304.8,609.6
+Eastern Cool Temperate Developed Ruderal Mixed Forested Wetland,9991,Wetland,Wetland,20,50,0.05,0.02,199.82,499.55
+Mississippi River High Floodplain (Bottomland) Forest,6939,Wetland,Wetland,20,50,0.05,0.02,138.78,346.95
+Eastern Warm Temperate Developed Ruderal Deciduous Forest,1404,Forest,Forest,5,10,0.2,0.1,140.4,280.8
+Southeastern Native Ruderal Flooded & Swamp Forest,4513,Wetland,Wetland,20,50,0.05,0.02,90.26,225.65
+Eastern Cool Temperate Developed Ruderal Herbaceous Wetland,3740,Wetland,Wetland,20,50,0.05,0.02,74.8,187
+Southeastern Ruderal Wet Meadow & Marsh,2922,Wetland,Wetland,20,50,0.05,0.02,58.44,146.1

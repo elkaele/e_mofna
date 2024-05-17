@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mofna_homepage",
+    "title": "Home",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "brief paragraph text"
   },
   {
     "objectID": "index.html#quarto",
@@ -33,5 +33,33 @@
     "title": "mofna_homepage",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "quartonotes.html",
+    "href": "quartonotes.html",
+    "title": "Quarto notes",
+    "section": "",
+    "text": "there are multiple ways to insert an image\n\none is inline code\nin between {} is for paramenters (very picky about syntax/order)\nuse tab to see available images \nmore detailed example: \nanother is with the knittr package\nThis creates a hyperlink: missouri"
+  },
+  {
+    "objectID": "quartonotes.html#insert-image",
+    "href": "quartonotes.html#insert-image",
+    "title": "Quarto notes",
+    "section": "",
+    "text": "there are multiple ways to insert an image\n\none is inline code\nin between {} is for paramenters (very picky about syntax/order)\nuse tab to see available images \nmore detailed example: \nanother is with the knittr package\nThis creates a hyperlink: missouri"
+  },
+  {
+    "objectID": "index.html#overview-of-project",
+    "href": "index.html#overview-of-project",
+    "title": "Home",
+    "section": "",
+    "text": "brief paragraph text"
+  },
+  {
+    "objectID": "index.html#ecological-map",
+    "href": "index.html#ecological-map",
+    "title": "Home",
+    "section": "Ecological Map",
+    "text": "Ecological Map"
   }
 ]
